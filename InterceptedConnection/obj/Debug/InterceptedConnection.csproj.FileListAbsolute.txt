@@ -1,0 +1,9 @@
+C:\be1s\InterceptedConnection\InterceptedConnection\obj\Debug\InterceptedConnection.csproj.AssemblyReference.cache
+C:\be1s\InterceptedConnection\InterceptedConnection\obj\Debug\InterceptedConnection.csproj.CoreCompileInputs.cache
+C:\be1s\InterceptedConnection\InterceptedConnection\bin\Debug\InterceptedConnection.dll
+C:\be1s\InterceptedConnection\InterceptedConnection\bin\Debug\InterceptedConnection.pdb
+C:\be1s\InterceptedConnection\InterceptedConnection\bin\Debug\Serilog.dll
+C:\be1s\InterceptedConnection\InterceptedConnection\bin\Debug\Serilog.xml
+C:\be1s\InterceptedConnection\InterceptedConnection\obj\Debug\InterceptedConnection.csproj.CopyComplete
+C:\be1s\InterceptedConnection\InterceptedConnection\obj\Debug\InterceptedConnection.dll
+C:\be1s\InterceptedConnection\InterceptedConnection\obj\Debug\InterceptedConnection.pdb
