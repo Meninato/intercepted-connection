@@ -23,7 +23,7 @@ namespace InterceptedConnection
                     IDataParameter dbParam = dbCommand.Parameters[i] as IDataParameter;
                     if (dbParam != null)
                     {
-                        Logger.Debug("SQL PARAMETER: ", dbParam.ParameterName, dbParam.Value);
+                        Logger.Debug("SQL PARAMETER Name: {name}, Value: {value} ", dbParam.ParameterName, dbParam.Value);
                     }
                 }
             }
